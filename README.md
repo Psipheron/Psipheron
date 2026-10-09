@@ -2,6 +2,8 @@
 
 I just like to code things(random things);
 I also like using AI and uncovering its true stupidity! ;) 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=psipheron)](https://github.com/stats-organization/github-stats-extended)
+
 ### Languages I know:
 * Rust 🦀
 * Dart
