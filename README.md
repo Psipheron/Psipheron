@@ -7,19 +7,10 @@ I also like using AI and uncovering its true stupidity! ;)
 
 ### Languages I know:
 * Rust 🦀
-* Dart
-* C++
+* Java/Kotlin
+* Ionic
 * C
-* C# 🎵
-* Swift 🐦
-* Java ☕
-* Python 🐍
-* Go 🚙
-* TypeScript-React is my favorite
-* JavaScript-Same deal with React
-* HTML
-* Haxe
-* Kotlin
+* 
 
 ### Languages that the AI I use sometimes knows:
  ㅤ*
