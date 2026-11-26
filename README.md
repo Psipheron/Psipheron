@@ -3,7 +3,16 @@
 I just like to code things(random things);
 I also like using AI and uncovering its true stupidity! ;) 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=psipheron)](https://github.com/stats-organization/github-stats-extended)
+[![Psipheron's GitHub stats](https://github-stats-extended.vercel.app/api?username=psipheron)](https://github.com/stats-organization/github-stats-extended)
+
+
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Psipheron&langs_count=4&theme=light_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Psipheron&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 
 ### Languages I know:
 * Rust 🦀
